@@ -1,2 +1,5 @@
 # Python-Linear-Algebra-Tools
-In this folder contains a library of linear algebra functions in Python. 
+This folder contains a library of linear algebra functions in Python.
+
+Functions include:
+-
